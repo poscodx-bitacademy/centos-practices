@@ -90,3 +90,5 @@ export PATH=$PATH:/usr/local/poscodx2023/git/bin
 # maven
 export PATH=$PATH:/usr/local/poscodx2023/maven/bin
 
+# mariadb
+export PATH=$PATH:/usr/local/poscodx2023/mariadb/bin
